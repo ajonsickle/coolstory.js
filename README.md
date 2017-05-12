@@ -1,16 +1,19 @@
 # coolstory.js
 Generate a random story title! Produces masterpieces such as:
 
-    The Breezy Winter
-    Between the Worst Souls
-    Entrusted by Azure Kings
-    The Star Box
-    Authority's Worst Bones
-    His Skulls
-    Old Spider Hand
-    The Shade Beans
-    How It Is
-    Smile
+*   The Breezy Winter
+*   Between the Worst Souls
+*   Entrusted by Azure Kings
+*   The Star Box
+*   Authority's Worst Bones
+*   His Skulls
+*   Old Spider Hand
+*   The Shade Beans
+*   How It Is
+*   Smile
+
+This module was originally built as part of [RPNow.net](https://github.com/rpnow/rpnow2), but
+is now available for any project to use under the [MIT license](/LICENSE).
 
 ## Basic Usage
 coolstory.js works in Node and in a browser.
@@ -56,7 +59,3 @@ Generate a story title whose length is less than or equal to `maxLength` charact
 ``` js
 coolstory.title(10);
 ```
-
-## License
-
-[MIT](/LICENSE)
