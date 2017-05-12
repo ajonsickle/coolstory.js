@@ -1,3 +1,5 @@
+[![Try coolstory.js on RunKit](https://badge.runkitcdn.com/coolstory.js.svg)](https://npm.runkit.com/coolstory.js)
+
 # coolstory.js
 Generate a random story title! Produces masterpieces such as:
 
