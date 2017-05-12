@@ -1,0 +1,28 @@
+{
+  "name": "coolstory.js",
+  "version": "0.1.0",
+  "description": "Generate a random story title! Works in a browser or in Node",
+  "main": "coolstory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamblesides/coolstory.js.git"
+  },
+  "keywords": [
+    "title",
+    "book",
+    "story",
+    "random",
+    "generator",
+    "generate",
+    "creator"
+  ],
+  "author": "Nigel Nelson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shamblesides/coolstory.js/issues"
+  },
+  "homepage": "https://github.com/shamblesides/coolstory.js#readme"
+}
