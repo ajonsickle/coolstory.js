@@ -43,7 +43,7 @@ var coolstory = (function() {
 })();
 
 // for node module
-if (module !== undefined) module.exports = coolstory;
+if (typeof module !== 'undefined') module.exports = coolstory;
 
 // story titles
 coolstory.add({
