@@ -35,7 +35,11 @@ let reallyGoodTitle = coolstory.title(); // "It Was the Bat"
 
 ### Bower
 
-TODO
+``` bash
+bower install --save coolstory.js
+```
+
+Include the file `coolstory.js` in your project.
 
 ## API
 
