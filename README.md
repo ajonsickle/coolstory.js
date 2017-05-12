@@ -15,6 +15,10 @@ Generate a random story title! Produces masterpieces such as:
 This module was originally built as part of [RPNow.net](https://github.com/rpnow/rpnow2), but
 is now available for any project to use under the [MIT license](/LICENSE).
 
+## Try it out!
+You can try out coolstory.js in your browser at [npm.runkit.com/coolstory.js](https://npm.runkit.com/coolstory.js).
+
+
 ## Basic Usage
 coolstory.js works in Node and in a browser.
 
