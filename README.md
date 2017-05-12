@@ -17,38 +17,48 @@ coolstory.js works in Node and in a browser.
 
 ### Browser
 
-    <script src="https://unpkg.com/coolstory.js"></script>
-    <script>
-        var amazingTitle = coolstory.title(); // "Doubting"
-    </script>
+``` html
+<script src="https://unpkg.com/coolstory.js"></script>
+<script>
+    var amazingTitle = coolstory.title(); // "Doubting"
+</script>
+```
 
 ### Node
 
 From the terminal:
 
-    npm install --save coolstory.js
+``` bash
+npm install --save coolstory.js
+```
 
 In Node:
 
-    const coolstory = require('coolstory.js');
-    let reallyGoodTitle = coolstory.title(); // "It Was the Bat"
+``` js
+const coolstory = require('coolstory.js');
+let reallyGoodTitle = coolstory.title(); // "It Was the Bat"
+```
 
 ### Bower
 
-    TODO
+TODO
 
 ## API
 
 ### coolstory.title()
 Generate a story title.
 
-    coolstory.title();
-    
+``` js
+coolstory.title();
+```
+
 ### coolstory.title(maxLength)
 Generate a story title whose length is less than or equal to `maxLength` characters. (including spaces)
 
-    coolstory.title(10);
-    
+``` js
+coolstory.title(10);
+```
+
 ## License
 
 [MIT](/LICENSE)
