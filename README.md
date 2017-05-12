@@ -26,13 +26,7 @@ coolstory.js works in Node and in a browser.
 
 ### Node
 
-From the terminal:
-
-``` bash
-npm install --save coolstory.js
-```
-
-In Node:
+After installing it using npm: `npm install coolstory.js`
 
 ``` js
 const coolstory = require('coolstory.js');
