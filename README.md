@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/coolstory.js.png?compact=true)](https://nodei.co/npm/coolstory.js/)
+
 [![Try coolstory.js on RunKit](https://badge.runkitcdn.com/coolstory.js.svg)](https://npm.runkit.com/coolstory.js)
 
 # coolstory.js
